@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="center">⬇ My social links..⬇</h3>
-<div align="center>
+<p align="center">
     <a href="https://linkedin.com/in/md-asif-mondal-20555421b/" target="_blank">
         <img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin">
     </a>
@@ -25,12 +25,14 @@
     <a href="https://www.instagram.com/_star_asif_786/?hl=en" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="telegram" width="48">
     </a>
-</div>
+</p>
 
-<img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder..">
+<p align="center">
+    <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder..">
+</p>
 
-<h1  align="center">
-    Programming Languages I use <🆎>
+<h1 align="center">
+    Programming Languages I use <🆎> <br> <br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C-lang" width=50>
     <img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" alt="C++" width=60>
     <img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="Java Script" width=60>
@@ -40,17 +42,20 @@
 </h1>
 
 <h1 align="center">
-    Tools, Frameworks and Libraries...☣
+    Tools, Frameworks and Libraries...☣ <br> <br>
     <img src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" alt="ReactJS" width=100>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="NodeJs" width=100>
     <img src="https://icon-library.com/images/d234566f9d.png" alt="MongoDB" width=100>
     <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" alt="Bootstrap" width=100>
     <img src="https://miro.medium.com/max/1160/0*skYUWg3ZvcY8xRf5" alt="ExpressJs" width=100>
 </h1>
+<p align="center">
+    <img src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=asifstar135&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000">
+</p>
 
-<img src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=asifstar135&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000">
-
-<img src="/meta-chart.png">
+<p align="center">
+    <img src="/meta-chart.png">
+</p>
 
 <h2 align="center">Let's talk about DSA & Problem Solving...</h2>
 <h4> I've solved good amount of DSA problems on LeetCode(470+), GFG(300+) and CodeStudio(200+)... <br>
