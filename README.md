@@ -29,24 +29,24 @@
 
 <img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder..">
 
-<div>
-    <h1 align="center"> Programming Languages I use <🆎></h1>
+<h1  align="center">
+    Programming Languages I use <🆎>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C-lang" width=50>
     <img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" alt="C++" width=60>
     <img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="Java Script" width=60>
     <img src="https://icon-library.com/images/java-icon-images/java-icon-images-0.jpg" alt="Java" width=60>
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" alt="Python" width=60>
     <img src="https://www.iconbunny.com/icons/media/catalog/product/cache/2/thumbnail/600x/1b89f2fc96fc819c2a7e15c7e545e8a9/1/7/1769.9-sql-icon-iconbunny.jpg" alt="SQL" width=60>
-</div>
+</h1>
 
-<div>
-    <h1 align="center"> Tools, Frameworks and Libraries...☣</h1>
+<h1 align="center">
+    Tools, Frameworks and Libraries...☣
     <img src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" alt="ReactJS" width=100>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="NodeJs" width=100>
     <img src="https://icon-library.com/images/d234566f9d.png" alt="MongoDB" width=100>
     <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" alt="Bootstrap" width=100>
     <img src="https://miro.medium.com/max/1160/0*skYUWg3ZvcY8xRf5" alt="ExpressJs" width=100>
-</div>
+</h1>
 
 <img src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=asifstar135&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000">
 
@@ -58,7 +58,7 @@ My Competitve Coding journey in codeChef(3⭐, 1652) and LeetCode(3⭐, 1600+) i
 Here's my coding profiles...
 </h4>
 
-<div align="center>
+<h1 align="center>
     <a href="https://leetcode.com/asif_star_135/" target="_blank">
         <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" width="47" alt="LeetCode">
     </a>
@@ -74,4 +74,4 @@ Here's my coding profiles...
     <a href="https://www.hackerrank.com/asifstar135" target="_blank">
         <img str="https://e7.pngegg.com/pngimages/891/900/png-clipart-logo-hackerrank-where-s-weed-java-hacker.png">
     </a>
-</div>
+</h1>
