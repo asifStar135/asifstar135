@@ -69,7 +69,7 @@ Here's my coding profiles... <br>
         <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" width="40" alt="LeetCode">
     </a>
     <a href="https://www.codechef.com/users/asif_star_786" target="_blank">
-        <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" width="40" alt="CodeChef">
+        <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" width="37" alt="CodeChef">
     </a>
     <a href="https://auth.geeksforgeeks.org/user/asifstar135/practice" target="_blank">
         <img src="https://media.geeksforgeeks.org/wp-content/uploads/20220123013311/gfg-200x200.png" width="40" alt="GFG">
@@ -78,6 +78,6 @@ Here's my coding profiles... <br>
         <img src="https://files.codingninjas.in/0000000000000723.jpg" width="40" alt="Code Studio">
     </a>
     <a href="https://www.hackerrank.com/asifstar135" target="_blank">
-        <img src="https://e7.pngegg.com/pngimages/891/900/png-clipart-logo-hackerrank-where-s-weed-java-hacker.png" width="45" alt="HackerRank">
+        <img src="https://e7.pngegg.com/pngimages/891/900/png-clipart-logo-hackerrank-where-s-weed-java-hacker.png" width="49" alt="HackerRank">
     </a>
 </p>
