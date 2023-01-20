@@ -33,12 +33,12 @@
 
 <h1 align="center">
     Programming Languages I use <🆎> <br> <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C-lang" width=70>
-    <img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" alt="C++" width=60>
-    <img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="Java Script" width=60>
-    <img src="https://icon-library.com/images/java-icon-images/java-icon-images-0.jpg" alt="Java" width=75>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" alt="Python" width=60>
-    <img src="https://www.iconbunny.com/icons/media/catalog/product/cache/2/thumbnail/600x/1b89f2fc96fc819c2a7e15c7e545e8a9/1/7/1769.9-sql-icon-iconbunny.jpg" alt="SQL" width=60>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C-lang" width="65">
+    <img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" alt="C++" width="70">
+    <img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="Java Script" width="60">
+    <img src="https://icon-library.com/images/java-icon-images/java-icon-images-0.jpg" alt="Java" width="75">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" alt="Python" width="60">
+    <img src="https://www.iconbunny.com/icons/media/catalog/product/cache/2/thumbnail/600x/1b89f2fc96fc819c2a7e15c7e545e8a9/1/7/1769.9-sql-icon-iconbunny.jpg" alt="SQL" width="60">
 </h1>
 
 <h1 align="center">
@@ -65,6 +65,7 @@ Here's my coding profiles...
 </h4>
 
 <h1 align="center>
+
     <a href="https://leetcode.com/asif_star_135/" target="_blank">
         <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" width="40" alt="LeetCode">
     </a>
