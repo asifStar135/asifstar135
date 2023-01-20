@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center"> 
-  <h2 align="center">Visitors count</h2>
+  <h2 align="center">Profile views...</h2>
 </p>
 <p align = "center">
     <img src="https://profile-counter.glitch.me/asifstar135/count.svg" />
@@ -31,21 +31,21 @@
 
 <div>
     <h1 align="center"> Programming Languages I use <🆎></h1>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C-lang" width=30>
-    <img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" alt="C++" width=30>
-    <img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="Java Script" width=30>
-    <img src="https://icon-library.com/images/java-icon-images/java-icon-images-0.jpg" alt="Java" width=30>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" alt="Python" width=30>
-    <img src="https://www.iconbunny.com/icons/media/catalog/product/cache/2/thumbnail/600x/1b89f2fc96fc819c2a7e15c7e545e8a9/1/7/1769.9-sql-icon-iconbunny.jpg" alt="SQL" width=30>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C-lang" width=50>
+    <img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" alt="C++" width=60>
+    <img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="Java Script" width=60>
+    <img src="https://icon-library.com/images/java-icon-images/java-icon-images-0.jpg" alt="Java" width=60>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" alt="Python" width=60>
+    <img src="https://www.iconbunny.com/icons/media/catalog/product/cache/2/thumbnail/600x/1b89f2fc96fc819c2a7e15c7e545e8a9/1/7/1769.9-sql-icon-iconbunny.jpg" alt="SQL" width=60>
 </div>
 
 <div>
     <h1 align="center"> Tools, Frameworks and Libraries...☣</h1>
-    <img src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" alt="ReactJS" width=40>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="NodeJs" width=40>
-    <img src="https://icon-library.com/images/d234566f9d.png" alt="MongoDB" width=40>
-    <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" alt="Bootstrap" width=40>
-    <img src="https://miro.medium.com/max/1160/0*skYUWg3ZvcY8xRf5" alt="ExpressJs" width=40>
+    <img src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" alt="ReactJS" width=80>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="NodeJs" width=80>
+    <img src="https://icon-library.com/images/d234566f9d.png" alt="MongoDB" width=80>
+    <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" alt="Bootstrap" width=80>
+    <img src="https://miro.medium.com/max/1160/0*skYUWg3ZvcY8xRf5" alt="ExpressJs" width=100>
 </div>
 
 <img src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=asifstar135&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000">
