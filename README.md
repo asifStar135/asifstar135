@@ -61,10 +61,10 @@
 <h2 align="center">Let's talk about DSA & Problem Solving...</h2>
 <h4 align="center"> I've solved good amount of DSA problems on LeetCode(470+), GFG(300+) and CodeStudio(200+)... <br>
 My Competitve Coding journey in codeChef(3⭐, 1652) and LeetCode(3⭐, 1600+) is pretty decent...🙃 <br>
+Here's my coding profiles... <br>
 </h4>
 
-<p align="center>
-    Here's my coding profiles...   
+<p align="center">  
     <a href="https://leetcode.com/asif_star_135/" target="_blank">
         <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" width="40" alt="LeetCode">
     </a>
@@ -78,6 +78,6 @@ My Competitve Coding journey in codeChef(3⭐, 1652) and LeetCode(3⭐, 1600+) i
         <img src="https://files.codingninjas.in/0000000000000723.jpg" width="40" alt="Code Studio">
     </a>
     <a href="https://www.hackerrank.com/asifstar135" target="_blank">
-        <img src="https://e7.pngegg.com/pngimages/891/900/png-clipart-logo-hackerrank-where-s-weed-java-hacker.png" width="40" alt="HackerRank">
+        <img src="https://e7.pngegg.com/pngimages/891/900/png-clipart-logo-hackerrank-where-s-weed-java-hacker.png" width="45" alt="HackerRank">
     </a>
 </p>
