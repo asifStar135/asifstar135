@@ -55,7 +55,7 @@
 </p>
 
 
-<img align="center" src="https://res.cloudinary.com/dtgj7lwpa/image/upload/v1674238185/samples/meta-chart_wa9jyr.png" width="200" alt="Pie Chart">
+<img align="center" src="https://res.cloudinary.com/dtgj7lwpa/image/upload/v1674238185/samples/meta-chart_wa9jyr.png" width="500" alt="Pie Chart">
 
 <h2 align="center">Let's talk about DSA & Problem Solving...</h2>
 <h4 align="center"> I've solved good amount of DSA problems on LeetCode(470+), GFG(300+) and CodeStudio(200+)... <br>
