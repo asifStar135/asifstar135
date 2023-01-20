@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There...!+👋;+This+side+Asif+Mondal;Good+to+see+you+here 😊&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There...!+👋;+This+side+Asif+Mondal;Good+to+see+you+here+😊;&center=true&size=30">
   </a>
 </h1>
 
@@ -11,7 +11,7 @@
     <img src="https://profile-counter.glitch.me/asifstar135/count.svg" />
 </p>
 
-<h3 align="center">My social links..⬇⬇</h3>
+<h3 align="center">⬇ My social links..⬇</h3>
 <div align="center>
     <a href="https://linkedin.com/in/md-asif-mondal-20555421b/" target="_blank">
         <img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin">
@@ -50,7 +50,7 @@
 
 <img src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=asifstar135&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000">
 
-<img src="./meta-chart.png">
+<img src="meta-chart.png">
 
 <h2 align="center">Let's talk about DSA & Problem Solving...</h2>
 <h4> I've solved good amount of DSA problems on LeetCode(470+), GFG(300+) and CodeStudio(200+)... <br>
