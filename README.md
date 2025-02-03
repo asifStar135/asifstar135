@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-###🔸 Upcoming Software Engineer @HashedIn By Deloitte 🖥️<br>
+### 🔸 Upcoming Software Engineer @HashedIn By Deloitte 🖥️<br>
 ### 🔸 Fullstack MERN developer with 2 yrs of experience 🌐<br>
 ### 🔸 2000+ rated Leetcoder, top 3% global 🎩<br>
 ### 🔸 Ready to collaborate in exciting projects 🤝<br>
