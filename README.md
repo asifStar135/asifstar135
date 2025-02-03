@@ -1,83 +1,41 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There...!+👋;+This+side+Asif+Mondal;Good+to+see+you+here+😊;&center=true&size=30">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&duration=3000&pause=500&color=BB13F7&center=true&vCenter=true&width=435&lines=Hey+There+...!+%F0%9F%91%8B;This+side+Md+Asif+!+%F0%9F%A4%A0;Good+to+see+you+here..+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-<p align="center"> 
-  <h2 align="center">Profile views...</h2>
-</p>
-<p align = "center">
-    <img src="https://profile-counter.glitch.me/asifstar135/count.svg" />
-</p>
+# 💫 About Me:
 
-<h3 align="center">⬇ My social links..⬇</h3>
-<p align="center">
-    <a href="https://linkedin.com/in/md-asif-mondal-20555421b/" target="_blank">
-        <img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin">
-    </a>
-    <a href="https://t.me/asifstar135" target="_blank">
-        <img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width="48">
-    </a>
-    <a href="https://www.facebook.com/asif.mondal.14203544" target="_blank">
-        <img src="https://w7.pngwing.com/pngs/69/315/png-transparent-computer-icons-facebook-inc-logo-facebook-blue-text-rectangle-thumbnail.png" alt="facebook" width="48">
-    </a>
-    <a href="https://www.instagram.com/_star_asif_786/?hl=en" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="telegram" width="48">
-    </a>
-</p>
+🔸 Upcoming Software Engineer @HashedIn By Deloitte 🖥️<br>
+🔸 Fullstack MERN developer with 2 yrs of experience 🌐<br>
+🔸 2000+ rated Leetcoder, top 3% global 🎩<br>
+🔸 Ready to collaborate in exciting projects 🤝<br>
+🔸 Ask me about DSA 💪
 
-<p align="center">
-    <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder..">
-</p>
+# Profile Views :
 
-<h1 align="center">
-    Programming Languages I use <🆎> <br> <br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C-lang" width="65">
-    <img src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" alt="C++" width="77">
-    <img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="Java Script" width="60">
-    <img src="https://icon-library.com/images/java-icon-images/java-icon-images-0.jpg" alt="Java" width="75">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" alt="Python" width="60">
-    <img src="https://www.iconbunny.com/icons/media/catalog/product/cache/2/thumbnail/600x/1b89f2fc96fc819c2a7e15c7e545e8a9/1/7/1769.9-sql-icon-iconbunny.jpg" alt="SQL" width="60">
-</h1>
+<img src="https://profile-counter.glitch.me/asifstar135/count.svg" />
 
-<h1 align="center">
-    Tools, Frameworks and Libraries...☣ <br> <br>
-    <img src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" alt="ReactJS" width="150">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="NodeJs" width=100>
-    <img src="https://icon-library.com/images/d234566f9d.png" alt="MongoDB" width="150">
-    <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" alt="Bootstrap" width="150">
-    <img src="https://miro.medium.com/max/1160/0*skYUWg3ZvcY8xRf5" alt="ExpressJs" width="150">
-</h1>
+## 🌐 Socials:
 
-<p align="center">
-    <img src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=asifstar135&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000">
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_md_asif_135) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-asif-mondal-20555421b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/md_asif_135) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asifstar135@gmail.com)
 
-<p align="center">
-    <img src="https://res.cloudinary.com/dtgj7lwpa/image/upload/v1674238185/samples/meta-chart_wa9jyr.png" width="500" alt="Pie Chart">
-</p>
+# 💻 Tech Stack:
 
-<h2 align="center">Let's talk about DSA & Problem Solving...</h2>
-<h4 align="center"> I've solved good amount of DSA problems on LeetCode(470+), GFG(300+) and CodeStudio(200+)... <br>
-My Competitve Coding journey in codeChef(3⭐, 1652) and LeetCode(3⭐, 1600+) is pretty decent...🙃 <br>
-Here's my coding profiles... <br>
-</h4>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="center">  
-    <a href="https://leetcode.com/asif_star_135/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" width="40" alt="LeetCode">
-    </a>
-    <a href="https://www.codechef.com/users/asif_star_786" target="_blank">
-        <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" width="37" alt="CodeChef">
-    </a>
-    <a href="https://auth.geeksforgeeks.org/user/asifstar135/practice" target="_blank">
-        <img src="https://media.geeksforgeeks.org/wp-content/uploads/20220123013311/gfg-200x200.png" width="40" alt="GFG">
-    </a>
-    <a href="https://www.codingninjas.com/codestudio/profile/UniQ_AsiF" target="_blank">
-        <img src="https://files.codingninjas.in/0000000000000723.jpg" width="40" alt="Code Studio">
-    </a>
-    <a href="https://www.hackerrank.com/asifstar135" target="_blank">
-        <img src="https://e7.pngegg.com/pngimages/891/900/png-clipart-logo-hackerrank-where-s-weed-java-hacker.png" width="49" alt="HackerRank">
-    </a>
-</p>
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=asifstar135&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=asifstar135&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asifstar135&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=asifstar135&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=asifstar135&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
